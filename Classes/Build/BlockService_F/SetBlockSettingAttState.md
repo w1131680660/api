@@ -1,0 +1,18 @@
+# SetBlockSettingAttState
+
+*所属类*:
+* [BlockService](/Api/Classes/Build/BlockService.md)
+------------------------------------------------------------------------------------------
+## 描述
+
+设置方块的属性设置状态
+
+------------------------------------------------------------------------------------------
+## 参数
+
+|<div style="width:100px">名称</div>|<div style="width:100px">类型</div>|<div style="width:50px">默认</div>|<div style="width:350px">描述</div>|
+|:---|:---|:---|:---|
+|workspace|[SandboxNode_Ref](/Api/Enums/SandboxNode_Ref.md)||根节点|
+|blockid|[int](/Api/DataType/Number.md)||方块ID|
+|attr|[int](/Api/DataType/Number.md)||方块属性|
+|bOpen|[bool](/Api/DataType/Bool.md)||属性设置是否打开|

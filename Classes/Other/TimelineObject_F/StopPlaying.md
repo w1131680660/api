@@ -1,0 +1,15 @@
+# StopPlaying
+
+*所属类*：
+* [TimelineObject](/Api/Classes/Other/TimelineObject.md)
+------------------------------------------------------------------------------------------
+## 描述
+
+停止播放时触发
+
+------------------------------------------------------------------------------------------
+## 参数
+
+|<div style="width:100px">名称</div>|<div style="width:100px">类型</div>|<div style="width:50px">默认</div>|<div style="width:350px">描述</div>|
+|:---|:---|:---|:---|
+|isStop|[bool](/Api/DataType/Bool.md)||是否停止播放|

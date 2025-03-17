@@ -1,0 +1,16 @@
+# SendSystemMsg
+
+*所属类*:
+* [Chat](/Api/Classes/GamePlay/Chat.md)
+------------------------------------------------------------------------------------------
+## 描述
+
+发送系统消息
+
+------------------------------------------------------------------------------------------
+## 参数
+
+|<div style="width:100px">名称</div>|<div style="width:100px">类型</div>|<div style="width:50px">默认</div>|<div style="width:350px">描述</div>|
+|:---|:---|:---|:---|
+|text|[string](/Api/DataType/String.md)||系统消息文本内容|
+|targetuin|[int](/Api/DataType/Number.md)||目标玩家的uin|
